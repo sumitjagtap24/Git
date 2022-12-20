@@ -2,3 +2,5 @@ Today is Monday
 We are learining git
 Trainer is Majrul
 SOmething went wrong
+cant open
+Finally opened
